@@ -4,7 +4,7 @@
 
 Este é um projeto de uma calculadora desenvolvida em React, que oferece uma interface amigável e intuitiva para realizar operações matemáticas básicas. 
 
-![Calculadora](images/calculadora.png)
+![Calculadora](images/Calculadora.png)
 
 ## Funcionalidades
 
